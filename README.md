@@ -151,3 +151,4 @@ Developed by RPN Tech World
 
 **⚠️ IMPORTANT DISCLAIMER**: This app is for educational purposes only. All information is AI-generated and may contain errors. Always consult a qualified healthcare professional or real doctor before using any medicinal plants. Do NOT depend solely on this AI for medical decisions.
 # MedAI
+# MedAI
