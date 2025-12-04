@@ -1,0 +1,13 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/app_logo.png"
+  adaptive_icon_background: "#1B5E20"
+  adaptive_icon_foreground: "assets/logo/app_logo.png"
+  
+  # Android icon settings
+  android_icon: "assets/logo/app_logo.png"
+  
+  # Remove old launcher icons before generating new ones
+  remove_alpha_ios: true
+

@@ -1,0 +1,40 @@
+name: medicinal_plant_app
+description: Med AI - AI-Powered Medicinal Plant Recommendation System by RPN Tech World (Mobile App)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  confetti: ^0.7.0
+  lottie: ^2.7.0
+  vibration: ^3.1.4
+  shared_preferences: ^2.2.2
+  google_generative_ai: ^0.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/logo/
+  
+  # Placeholder for plant images
+  # You can add actual images later:
+  # - assets/images/neem.png
+  # - assets/images/tulsi.png
+  # - assets/images/bitter_gourd.png
+  # - assets/images/aloe_vera.png
+  # - assets/images/peppermint.png
+
