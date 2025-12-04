@@ -2,11 +2,6 @@
 
 A complete Flutter mobile app with gamified features, powered by advanced AI technology.
 
-**Built by RPN Tech World**
-- Contact: +91 9751448561
-- Email: helo@rpntechworld.com
-- Website: www.rpntechworld.com
-
 ## Features
 
 - 🌱 **Chat Recommendation Mode**: Get AI-powered medicinal plant recommendations for any health concern
@@ -139,13 +134,6 @@ The APK will be generated at: `build/app/outputs/flutter-apk/app-release.apk`
 - No backend, database, or external services required
 - Works completely offline after initial API calls (cached responses)
 - Responsive design supports phones and tablets
-
-## License
-
-Developed by RPN Tech World
-- Contact: +91 9751448561
-- Email: helo@rpntechworld.com
-- Website: www.rpntechworld.com
 
 ---
 
